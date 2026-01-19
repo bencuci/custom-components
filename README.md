@@ -2,7 +2,7 @@
 
 A production-ready library of 6 reusable React components designed to accelerate UI development and improve developer experience. This project features live, interactive code examples with real-time editing capabilities to enhance documentation and onboarding.
 
-### 🔗 [Live](https://ben-custom-components.netlify.app/)
+### 🔗 [Live demonstration](https://ben-custom-components.netlify.app/)
 
 ## ✨ Features
 
