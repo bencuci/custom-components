@@ -4,7 +4,7 @@ A production-ready library of 6 reusable React components designed to accelerate
 
 ### 🔗 [Live demonstration](https://ben-custom-components.netlify.app/)
 
-## ✨ Features
+## Features
 
 - **6 Production-Ready Components**: Badge, Banner, Card, Testimonial, Toast, and Tooltip components
 - **Live Code Editor**: Interactive code examples using React Simple Code Editor with syntax highlighting
@@ -12,15 +12,14 @@ A production-ready library of 6 reusable React components designed to accelerate
 - **Responsive Design**: Mobile-first approach with modern CSS
 - **Modular Architecture**: Clean, reusable component structure for easy integration
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: JavaScript, React
 - **Code Editor**: React Simple Code Editor, Highlight.js
 - **Styling**: CSS
 - **Build Tool**: Vite
-- **Version Control**: Git
 
-## 📦 Component Library
+## Component Library
 
 The library includes the following components:
 
@@ -31,7 +30,7 @@ The library includes the following components:
 5. **Toast** - Temporary notification messages with auto-dismiss
 6. **Tooltip** - Contextual information overlays on hover
 
-## 🏃 Run Locally
+## Run Locally
 
 Install dependencies and start the development server:
 
@@ -42,7 +41,7 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -58,7 +57,7 @@ src/
 └── styles/              # Component and page styles
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
 - Rapid prototyping and development
 - Consistent UI across applications
